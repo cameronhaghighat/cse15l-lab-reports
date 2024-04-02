@@ -5,9 +5,14 @@
   - Output:
    ```
 {
-  @cameronhaghighat ➜ /workspaces/lecture1 (main) $ cd
-  @cameronhaghighat ➜ ~ $
+    @cameronhaghighat ➜ /workspaces/lecture1 (main) $ cd
+    @cameronhaghighat ➜ ~ $
 }
 ```
-  - Absolute Path: /home/codespace
-  - 
+  - Absolute Path:
+```
+{
+    @cameronhaghighat ➜ ~ $ pwd
+    /home/codespace
+}
+```
