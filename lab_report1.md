@@ -2,10 +2,11 @@
 ---
 ## **Command cd**
 1. **No Arguments**
-  - Output
+  - Output:
    ```
 {
-  @cameronhaghighat ➜ /workspaces/lecture1 (main) $ cd  @cameronhaghighat ➜ ~ $
+  @cameronhaghighat ➜ /workspaces/lecture1 (main) $ cd
+  @cameronhaghighat ➜ ~ $
 }
 ```
   - Absolute Path: /home/codespace
