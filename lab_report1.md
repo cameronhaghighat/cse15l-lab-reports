@@ -2,6 +2,11 @@
 ---
 ## **Command cd**
 1. **No Arguments**
-  - Output: ![Image](cd(no arguments).png)
+  - Output: ```
+{
+  @cameronhaghighat ➜ /workspaces/lecture1 (main) $ cd
+  @cameronhaghighat ➜ ~ $
+}
+```
   - Absolute Path: /home/codespace
   - 
