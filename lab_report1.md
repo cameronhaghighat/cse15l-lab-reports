@@ -1,6 +1,6 @@
 # **Lab Report 1**
 ---
-## **Command cd**
+## **Command 'cd'**
 1. **No Arguments**
   - Output:
    ```
