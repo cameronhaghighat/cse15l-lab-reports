@@ -109,7 +109,7 @@
 ## **Command `cat`**
 1. **No Arguments**
   - Output:
-   ```
+```
 {
     @cameronhaghighat ➜ ~ $ cat
    
@@ -126,7 +126,7 @@
 
 2. **Path to a Directory**
   - Output:
-   ```
+```
 {
     @cameronhaghighat ➜ ~ $ cat /workspaces/lecture1
     cat: /workspaces/lecture1: Is a directory
@@ -144,7 +144,7 @@
     
 3. **Path to a File**
   - Output:
-   ```
+```
 {
     @cameronhaghighat ➜ ~ $ cat /workspaces/lecture1/Hello.java
     import java.io.IOException;
