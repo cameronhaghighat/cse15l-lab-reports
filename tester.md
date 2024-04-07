@@ -1,6 +1,6 @@
 ## **Command `cat`**
 1. **No Arguments**
-- Output:
+    - Output:
     
 ```
 {
