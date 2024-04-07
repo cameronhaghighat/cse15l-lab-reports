@@ -73,7 +73,7 @@
 
 2. **Path to a Directory**
   - Output:
-   ```
+```
 {
     @cameronhaghighat ➜ ~ $ ls /workspaces/lecture1
     Hello.class  Hello.java  README  messages
@@ -91,7 +91,7 @@
     
 3. **Path to a File**
   - Output:
-   ```
+```
 {
     @cameronhaghighat ➜ ~ $ ls /workspaces/lecture1/Hello.java
     /workspaces/lecture1/Hello.java
