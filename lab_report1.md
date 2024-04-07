@@ -16,7 +16,7 @@
 }
 ```
   - Explanation:
-    After using `cd` without any arguments, the working directory changed from /workspaces/lecture1 to the home directory (~). The home         directory seems to be the default directory. This is not an error, it is a standard behavior.
+    After using `cd` without any arguments, the working directory changed from /workspaces/lecture1 to the home directory (~). The home         directory is the default directory. This is not an error, it is a standard behavior.
 
 2. **Path to a Directory**
   - Output:
@@ -122,7 +122,7 @@
 }
 ```
   - Explanation:
-    After using `cat` without any arguments, the terminal moves to an empty, new line. The comman is waiting for an argument to be given.       This is not an error.
+    After using `cat` without any arguments, the terminal moves to an empty, new line. The command is waiting for an argument to be given.      This is not an error.
 
 2. **Path to a Directory**
   - Output:
