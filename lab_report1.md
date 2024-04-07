@@ -162,10 +162,11 @@
   - Absolute Path:
 ```
 {
-    @cameronhaghighat ➜ ~ $ 
+    @cameronhaghighat ➜ ~ $
+
 }
 ```
   - Explanation:
-    After using `car` to the path to a file /workspaces/lecture1/Hello.java, the terminal prints all of the contents of the file         
+    After using `cat` to the path to a file /workspaces/lecture1/Hello.java, the terminal prints all of the contents of the file         
     Hello.java. This is not an error.
 
