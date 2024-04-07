@@ -106,7 +106,7 @@
   - Explanation:
     After using `ls` to the path to a file /workspaces/lecture1/Hello.java, the terminal displays the path to the file. This is not an          error.
 
-## **Command `cat`**
+## **Command `cat`##
 1. **No Arguments**
   - Output:
 ```
