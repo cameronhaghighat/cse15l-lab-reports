@@ -126,7 +126,7 @@
 - Explanation:
     After using `cat` without any arguments, the terminal moves to an empty, new line. The command is waiting for an argument to be given. This is not an error.
 
-2. **Path to a Directory**
+  2. **Path to a Directory**
 - Output:
    
 ```
@@ -144,8 +144,8 @@
 ```
 - Explanation:
     This produced an error because the command argument was incorrect. It is looking for a list of files, not a directory.
-    
-3. **Path to a File**
+
+    3. **Path to a File**
 - Output:
     
 ```
