@@ -12,7 +12,7 @@
   - Absolute Path:
 ```
 {
-    @cameronhaghighat ➜ ~ /workspaces/lecture1 (main) $
+  /workspaces/lecture1 
 }
 ```
   - Explanation:
@@ -29,7 +29,7 @@
   - Absolute Path:
 ```
 {
-    @cameronhaghighat ➜ ~ $ 
+    /~
 }
 ```
   - Explanation:
@@ -47,7 +47,7 @@
   - Absolute Path:
 ```
 {
-    @cameronhaghighat ➜ ~ $ 
+    /~
 }
 ```
   - Explanation:
@@ -65,7 +65,7 @@
   - Absolute Path:
 ```
 {
-    @cameronhaghighat ➜ ~ /workspaces/lecture1 (main) $
+    /workspaces/lecture1
 }
 ```
   - Explanation:
@@ -82,7 +82,7 @@
   - Absolute Path:
 ```
 {
-    @cameronhaghighat ➜ ~ $ 
+    /~
 }
 ```
   - Explanation:
@@ -100,7 +100,7 @@
   - Absolute Path:
 ```
 {
-    @cameronhaghighat ➜ ~ $ 
+    /~ 
 }
 ```
   - Explanation:
@@ -120,7 +120,7 @@
   
 ```
 {
-    @cameronhaghighat ➜ ~ $
+    /~
 }
 ```
 - Explanation:
@@ -139,7 +139,7 @@
     
 ```
 {
-    @cameronhaghighat ➜ ~ $ 
+    /~
 }
 ```
 - Explanation:
@@ -169,7 +169,7 @@
     
 ```
 {
-    @cameronhaghighat ➜ ~ $ 
+    /~
 }
 ```
 - Explanation:
