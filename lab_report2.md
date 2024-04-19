@@ -47,4 +47,4 @@ class ChatServer {
 }
 ```
 **First `/add-message`:**
-![Image](I_thinkg.png)
+![Image](I_think.png)
