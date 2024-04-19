@@ -59,19 +59,19 @@ In my code, the method handleRequest was called.<br /><br />
 The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I%20think%20it%20is!&user=otherCameron) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
 
 0 -> "chaghighat: I hope this is working."
-1 -> "otherCameron: I think it is!"
+1 -> "otherCameron: I think it is!"<br /><br />
 
 **How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.**
 
 The value of the ArrayList “comments” changed from: 0 -> "chaghighat: I hope this is working."
-to 1 -> "otherCameron: I think it is!"
+to 1 -> "otherCameron: I think it is!"<br /><br />
 
 ### **Second `/add-message`:**
 
 
 **Which methods in your code are called?**
 
-In my code, the method handleRequest was called.
+In my code, the method handleRequest was called.<br /><br />
 
 **What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
 
@@ -79,7 +79,7 @@ The relevant argument to this method is the URL (http://localhost:3003/add-messa
 
 0 -> "chaghighat: I hope this is working."
 1 -> "otherCameron: I think it is!"
-2 -> "chaghighat: I am so happy."
+2 -> "chaghighat: I am so happy."<br /><br />
 
 **How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.**
 
