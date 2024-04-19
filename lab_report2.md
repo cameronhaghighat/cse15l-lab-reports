@@ -76,35 +76,35 @@ In my code, the method handleRequest was called.<br /><br />
 **What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
 
 The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I%20am%20so%20happy.&user=chaghighat) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
-
+```
 0 -> "chaghighat: I hope this is working."
 1 -> "otherCameron: I think it is!"
 2 -> "chaghighat: I am so happy."<br /><br />
-
+```
 **How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.**
 
 The value of the ArrayList “comments” changed from: 
-
+```
 0 -> "chaghighat: I hope this is working."
 1 -> "otherCameron: I think it is!"
-
+```
 To
 
-
+```
 0 -> "chaghighat: I hope this is working."
 1 -> "otherCameron: I think it is!"
 2 -> "chaghighat: I am so happy." <br /><br />
-
+```
 
 ## Part 2
 
-**On the command line of your computer, run ls with the absolute path to the private key for your SSH key for logging into ieng6.**<br />
+**On the command line of your computer, run ls with the absolute path to the private key for your SSH key for logging into ieng6.** <br />
 ![Image](Abs_Path_to_Private_Key.png) <br /><br />
 
-**On the command line of the ieng6 machine, run ls with the absolute path to the public key for your SSH key for logging into ieng6 (this is the one you copied to your account on ieng6 using ssh-copy-id, so it should be a path on ieng6's file system).**<br />
+**On the command line of the ieng6 machine, run ls with the absolute path to the public key for your SSH key for logging into ieng6 (this is the one you copied to your account on ieng6 using ssh-copy-id, so it should be a path on ieng6's file system).** <br />
 ![Image](Abs_path_server.png) <br /><br />
 
-**A terminal interaction where you log into your ieng6 account without being asked for a password.**<br />
+**A terminal interaction where you log into your ieng6 account without being asked for a password.** <br />
 ![Image](Accessing_Serv.png) <br /><br />
 
 ## Part 3
