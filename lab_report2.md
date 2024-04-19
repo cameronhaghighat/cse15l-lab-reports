@@ -56,7 +56,7 @@ In my code, the method handleRequest was called.
 
 **What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
 
-The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I think  it is!&user=otherCameron) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
+The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I%20think%20it%20is!&user=otherCameron) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
 
 0 -> "chaghighat: I hope this is working."
 1 -> "otherCameron: I think it is!"
@@ -75,7 +75,7 @@ In my code, the method handleRequest was called.
 
 **What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
 
-The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I am so happy.&user=chaghighat) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
+The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I%20am%20so%20happy.&user=chaghighat) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
 
 0 -> "chaghighat: I hope this is working."
 1 -> "otherCameron: I think it is!"
