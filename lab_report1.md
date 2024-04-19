@@ -16,7 +16,7 @@
 }
 ```
   - Explanation:
-    After using `cd` without any arguments, the working directory changed from /workspaces/lecture1 to the home directory (~). The home         directory is the default directory. This is not an error, it is a standard behavior.
+    After using `cd` without any arguments, the working directory changed from ```/workspaces/lecture1``` to the home directory (~). The   home directory is the default directory. This is not an error, it is a standard behavior.
 
 2. **Path to a Directory**
   - Output:
@@ -33,7 +33,7 @@
 }
 ```
   - Explanation:
-    After using `cd` to the path directory /workspaces/lecture1, the working directory changed to /workspaces/lecture1. This is not an          error, it is a standard behavior.
+    After using `cd` to the path directory ```/workspaces/lecture1```, the working directory changed to ```/workspaces/lecture1```. This is not an error, it is a standard behavior.
 
 3. **Path to a File**
   - Output:
@@ -51,7 +51,7 @@
 }
 ```
   - Explanation:
-    An error was produced after using `cd` to the path to a file /workspaces/lecture1 because the `cd` command was looking for a directory,     not a file.
+    An error was produced after using `cd` to the path to a file ```/workspaces/lecture1``` because the `cd` command was looking for a directory, not a file.
 
 ## **Command `ls`**
 1. **No Arguments**
@@ -86,7 +86,7 @@
 }
 ```
   - Explanation:
-    After using `ls` to the path directory /workspaces/lecture1, the terminal lists all of the contents of the /lecture1 directory. This is     not an error, this is standard behavior.
+    After using `ls` to the path directory ```/workspaces/lecture1```, the terminal lists all of the contents of the ```/lecture1``` directory. This is not an error, this is standard behavior.
 
     
 3. **Path to a File**
@@ -104,7 +104,7 @@
 }
 ```
   - Explanation:
-    After using `ls` to the path to a file /workspaces/lecture1/Hello.java, the terminal displays the path to the file. This is not an          error.
+    After using `ls` to the path to a file ```/workspaces/lecture1/Hello.java```, the terminal displays the path to the file. This is not an error.
 
 ## **Command `cat`**
 1. **No Arguments**
@@ -173,7 +173,7 @@
 }
 ```
 - Explanation:
-    After using `cat` to the path to a file /workspaces/lecture1/Hello.java, the terminal prints all of the contents of the file Hello.java. This is not an error.
+    After using `cat` to the path to a file ```/workspaces/lecture1/Hello.java```, the terminal prints all of the contents of the file ```Hello.java```. This is not an error.
 
 
 
