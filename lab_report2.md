@@ -98,14 +98,14 @@ To
 
 ## Part 2
 
-**On the command line of your computer, run ls with the absolute path to the private key for your SSH key for logging into ieng6.** <br />
-![Image](Abs_Path_to_Private_Key.png) <br /><br />
+**On the command line of your computer, run ls with the absolute path to the private key for your SSH key for logging into ieng6.** <br /><br />
+![Image](Abs_Path_to_Private_Key.png) <br /><br /><br />
 
-**On the command line of the ieng6 machine, run ls with the absolute path to the public key for your SSH key for logging into ieng6 (this is the one you copied to your account on ieng6 using ssh-copy-id, so it should be a path on ieng6's file system).** <br />
-![Image](Abs_path_server.png) <br /><br />
+**On the command line of the ieng6 machine, run ls with the absolute path to the public key for your SSH key for logging into ieng6 (this is the one you copied to your account on ieng6 using ssh-copy-id, so it should be a path on ieng6's file system).** <br /><br />
+![Image](Abs_path_server.png) <br /><br /><br />
 
-**A terminal interaction where you log into your ieng6 account without being asked for a password.** <br />
-![Image](Accessing_Serv.png) <br /><br />
+**A terminal interaction where you log into your ieng6 account without being asked for a password.** <br /><br />
+![Image](Accessing_Serv.png) <br /><br /><br />
 
 ## Part 3
 
