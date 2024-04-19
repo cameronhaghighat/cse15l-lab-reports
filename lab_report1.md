@@ -117,8 +117,6 @@
 }
 ```
 
-There was no output for `cat`. `cat` allows us to view the content of a file(s). However, if there are no arguments, there are no contents to be shown.
-
 - Absolute Path:
   
 ```
@@ -127,7 +125,7 @@ There was no output for `cat`. `cat` allows us to view the content of a file(s).
 }
 ```
 - Explanation:
-    After using `cat` without any arguments, the terminal moves to an empty, new line. The command is waiting for an argument to be given. This is not an error.
+    After using `cat` without any arguments, the terminal moves to an empty, new line. The command is waiting for an argument to be given. `cat` allows us to view the content of a file(s). However, if there are no arguments, there are no contents to be shown. This is not an error. To get out of this state I used the command `^C`.
 
 2. **Path to Directory**
 - Output:
