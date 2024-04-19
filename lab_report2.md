@@ -1,7 +1,7 @@
 # **Lab Report 2**
 ---
 ## Part 1
-**`Chat Server` Code:**
+### **`Chat Server` Code:**
 ```
 import java.io.IOException;
 import java.net.URI;
@@ -46,5 +46,53 @@ class ChatServer {
     }
 }
 ```
-**First `/add-message`:**
+### **First `/add-message`:**
+
 ![Image](I_think.png)
+
+**Which methods in your code are called?**
+
+In my code, the method handleRequest was called.
+
+**What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
+
+The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I think  it is!&user=otherCameron) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
+
+0 -> "chaghighat: I hope this is working."
+1 -> "otherCameron: I think it is!"
+
+**How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.**
+
+The value of the ArrayList “comments” changed from: 0 -> "chaghighat: I hope this is working."
+to 1 -> "otherCameron: I think it is!"
+
+### **Second `/add-message`:**
+
+
+**Which methods in your code are called?**
+
+In my code, the method handleRequest was called.
+
+**What are the relevant arguments to those methods, and the values of any relevant fields of the class?**
+
+The relevant argument to this method is the URL (http://localhost:3003/add-message?s=I am so happy.&user=chaghighat) which includes the message and the username. The value of my ArrayList of strings called “comments” now has a value of: 
+
+0 -> "chaghighat: I hope this is working."
+1 -> "otherCameron: I think it is!"
+2 -> "chaghighat: I am so happy."
+
+**How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.**
+
+The value of the ArrayList “comments” changed from: 
+
+0 -> "chaghighat: I hope this is working."
+1 -> "otherCameron: I think it is!"
+
+To
+
+
+0 -> "chaghighat: I hope this is working."
+1 -> "otherCameron: I think it is!"
+2 -> "chaghighat: I am so happy."
+
+
