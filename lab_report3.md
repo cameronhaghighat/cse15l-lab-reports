@@ -65,6 +65,8 @@ The bug in reverseInPlace has to do with assigning updated values back to the ar
 
 ## Part 2 `grep`
 
+Source: https://phoenixnap.com/kb/grep-command-linux-unix-examples
+
 ### The `-i` Command-Line Option
 
 This command-line option ignores differences between lowercase and uppercase letters. This may be useful if we do not care about case sensitivity.
