@@ -28,7 +28,7 @@ public void SuccessfulInputTests() {
 
 ### The Symptom
 
-![Image](Accessing_Serv.png)
+![Image](Symptom.png)
 
 ### The Bug Before and After
 
