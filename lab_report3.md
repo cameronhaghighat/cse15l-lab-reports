@@ -27,6 +27,7 @@ public void SuccessfulInputTests() {
 }
 
 ```
+The input produces the correct output because there is only one value/index in the array. Therefore, the reverseInPlace method will replace the single value (1) with the same value (1) which does not change the input. Thus the output is correct.
 
 ### The Symptom
 
