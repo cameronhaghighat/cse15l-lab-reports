@@ -14,6 +14,8 @@ public void FailureInducingInputTest() {
 
 ```
 
+This input fails because the reverseInPlace method assigns updated values back to the input1 array. So 1 will become 3, 2 will stay 2, but then 3 will copy the value at index 1 which has already been updated to 3. The output would be {3,2,3} which is incorrect.
+
 ### An Input That Doesn't Induce a Failure
 
 ```
