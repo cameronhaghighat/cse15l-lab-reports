@@ -48,11 +48,14 @@ The first command opens the file ListExamples.java in vim. Then `/44` finds the 
 `bash<space>test.sh<enter>`
 
 ### Summary
+The command runs the bash script containing the tests.
 
 ## Step 9
 
 ### Screenshot
 
 ### Commands
+git<space>add<space>ListExamples.java<enter>git<space>commit<space>-m<space>"Yay"<enter>git<space>push<enter>
 
 ### Summary
+The command `git add ListExamples.java` stages the file ListExamples.java for the next commit. The command `git commit -m "Yay"` creates a new commit with the changes that have been staged and uses the -m flag to specify a commit message which in this case is "Yay". Finally `git push` pushes the changes from my repository to the remote repository, therefore, updating the remote repository.
