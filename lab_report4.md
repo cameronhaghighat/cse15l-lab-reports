@@ -3,6 +3,7 @@
 ## Step 4
 
 ### Screenshot
+![Image](Screenshot1.png)
 
 ### Commands
 `ssh<space>chaghighat@ieng6.ucsd.edu<enter>`
@@ -13,6 +14,7 @@ The command permitted me to access my account on the ieng6 server.
 ## Step 5
 
 ### Screenshot
+![Image](Screenshot2.png)
 
 ### Commands
 `git<space>clone<space>git@github.com:cameronhaghighat/lab7.git<enter>`
@@ -23,6 +25,7 @@ The command creates a clone of the forked repository and downloads all of the fi
 ## Step 6
 
 ### Screenshot
+![Image](Screenshot3.png)
 
 ### Commands
 `cd<space>lab7<enter>bash<space>test.sh<enter>`
@@ -33,6 +36,7 @@ The commands change the working directory to the lab7 directory found in the rep
 ## Step 7
 
 ### Screenshot
+![Image](Screenshot4.png)
 
 ### Commands
 `vim<space>ListExamples.java<enter>/44<enter>er2<ESC>:wq<enter>`
@@ -43,6 +47,7 @@ The first command opens the file ListExamples.java in vim. Then `/44` finds the 
 ## Step 8
 
 ### Screenshot
+![Image](Screenshot5.png)
 
 ### Commands
 `bash<space>test.sh<enter>`
@@ -53,6 +58,7 @@ The command runs the bash script containing the tests.
 ## Step 9
 
 ### Screenshot
+![Image](Screenshot6.png)
 
 ### Commands
 git<space>add<space>ListExamples.java<enter>git<space>commit<space>-m<space>"Yay"<enter>git<space>push<enter>
